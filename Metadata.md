@@ -1,4 +1,5 @@
 **About the dataset:**
+
  It is a real-world evidence dataset from Health Verity (HV), one of the largest healthcare data ecosystems in the US. the HV dataset contains health related information of patients who were diagnosed with metastatic triple negative breast cancers in the US.It has roughly 19k record dataset (split into training and test sets) representing patients and their characteristics (age, race, BMI, zip code), their diagnosis and treatment information (breast cancer diagnosis code, metastatic cancer diagnosis code, metastatic cancer treatments etc.), their geo (zip-code level) demographic data (income, education, rent, race, poverty etc), as well as climate data that tie health outcomes to external conditions. Each row in the data corresponds to a single patient and her/his Diagnosis Period.
 
 **Target:**

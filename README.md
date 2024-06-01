@@ -22,7 +22,7 @@ The project encompasses data preprocessing, data exploration, feature engineerin
 
 ### Project Structure ###
 - **Plots and Charts/**: Directory containing visualizations and plots generated during the analysis.
-- **analysis_prediction.ipynb:** Jupyter notebook with data analysis, modeling, and prediction.
 - **Metadata.md:** Contains metadata information about the dataset.
 - **README.md:** Project documentation and overview.
-- **train.csv, test.csv:** Training and testing datasets.
+- **analysis_prediction.ipynb:** Jupyter notebook with data analysis, modeling, and prediction.
+- **train.csv, test.csv:** These files contain datasets for training and testing machine learning models. The training dataset (train.csv) is used to train the model, while the testing dataset (test.csv) is used to evaluate its performance.
